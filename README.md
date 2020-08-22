@@ -13,7 +13,7 @@ Start Project:
 
 Features:
 ---------
-In this app you be able as to:\
+In this app you be able to:\
 -Post a Todo task\
 -Mark a Todo task as completed\
 -Delete a Todo task
